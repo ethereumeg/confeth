@@ -15,11 +15,6 @@ This project was created within the Czech-Slovak Ethereum community Gwei.cz for 
 - Social-messaging integration (Matrix, Discord, Telegram ..)
 - Easy expandability
 
-## Roadmap
-- **v1.0** - jan/feb 2023 - basic support for accepting hackathon applications, CfP
-- **v2.0** - mar/apr 2023 - ticketing, reviews, scheduling, website tweaks
-- **v3.0** - may/jun 2023 - project submissions, federalized list of events + more
-
 ## Comparison matrix
 
 | Feature | confeth | Pretalx | Devfolio/<br/>Devpost* |
@@ -40,9 +35,7 @@ Note: *\*Devfolio or similar hackathon tools like Devpost*
 
 ## Who's using it?
 ### Planned events
-- [UTXO.23](https://utxo.cz/) - June 2023
-- [ETHBrno³](http://ethbrno.cz/) - November 2023
-
+- TBA
 
 ## License
 MIT
